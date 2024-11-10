@@ -47,13 +47,13 @@ simultaneous).
 2. Display Instructions:
 
     - Display a menu with different options for the user: 
-        1. Setup (Configure a container with medicine name and dispense time).
-        2. Refill Medicine (Add medicine to a container). 
-        3. Update Settings (Change medicine name, time, or reset a container). 
-        4. View All Containers (Display current state of all containers). 
-        5. Dispense Medicine at Set Time (Automatically dispense medicine based on pre-configured time). 
-        6. Instruction Manual (Show the instruction manual again). 
-        7. Exit (Exit the system).
+        - Setup (Configure a container with medicine name and dispense time).
+        - Refill Medicine (Add medicine to a container). 
+        - Update Settings (Change medicine name, time, or reset a container). 
+        - View All Containers (Display current state of all containers). 
+        - Dispense Medicine at Set Time (Automatically dispense medicine based on pre-configured time). 
+        - Instruction Manual (Show the instruction manual again). 
+        - Exit (Exit the system).
 
     - Alert if the medicine quantity is low (below the threshold of 2).
 
