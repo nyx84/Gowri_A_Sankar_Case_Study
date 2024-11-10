@@ -1,6 +1,6 @@
-# AUTOMATIC MEDICINE DISPENSER
+## AUTOMATIC MEDICINE DISPENSER
 
-## PROJECT OVERVIEW:
+### PROJECT OVERVIEW:
 
 The Automatic Medicine Dispenser System is designed to manage multiple
 containers, each holding a specific type of medicine. The system allows users to
@@ -12,7 +12,7 @@ the containers.
 
 --------------------------------------------------------------------------------------
 
-## ASSUMPTIONS AND LIMITATIONS:
+### ASSUMPTIONS AND LIMITATIONS:
 
 - No Real-Time Clock: The system requires manual input of the current time for
 dispensing at a set time. It lacks integration with an actual clock.
@@ -32,7 +32,7 @@ simultaneous).
 
 --------------------------------------------------------------------------------------
 
-## ALGORITHM:
+### ALGORITHM:
 
 1. Initialization:
     
