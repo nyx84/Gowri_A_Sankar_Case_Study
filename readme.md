@@ -76,7 +76,7 @@ simultaneous).
 
     - Ensure that no more than 10 medicines are added to the container.
 
-5.Update Settings:
+5. Update Settings:
 
     - User can change the medicine name, update the dispensing time, or reset the
     container.
