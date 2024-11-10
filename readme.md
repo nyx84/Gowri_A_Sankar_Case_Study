@@ -86,11 +86,11 @@ simultaneous).
 
 6. View All Containers:
 
-    -Display the details of each container, including:
-        -Medicine name
-        -Current quantity of medicines
-        -Dispensing time 
-        -Pictorial representation of medicines in the queue (FIFO format).
+    - Display the details of each container, including:
+        - Medicine name
+        - Current quantity of medicines
+        - Dispensing time 
+        - Pictorial representation of medicines in the queue (FIFO format).
     
 7. Dispense Medicine at Set Time:
 
